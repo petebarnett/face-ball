@@ -6,7 +6,7 @@ Face Ball is a 2 player game designed for use in an office environment to resolv
 - Who will make the tea
 - Who is buying lunch
 
-## Required equipment
+## Dependencies
 - 1 x Standard [stress ball](https://en.wikipedia.org/wiki/Stress_ball)
 - 2 x Office chairs
 
